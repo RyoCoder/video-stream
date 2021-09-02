@@ -14,12 +14,12 @@ async def start(client, m: Message):
                              "🌐 Terms & Condition", callback_data="cbinfo")
                        ],[
                           InlineKeyboardButton(
-                             "👩🏻‍💻 Developer", url="https://t.me/dlwrml")
+                             "👩🏻‍💻 Developer", url="https://t.me/ryostar")
                        ],[
                           InlineKeyboardButton(
-                             "💭 Group", url="https://t.me/VeezSupportGroup"),
+                             "💭 Group", url="https://t.me/owohub"),
                           InlineKeyboardButton(
-                             "✨ Channel", url="https://t.me/levinachannel")
+                             "✨ Channel", url="https://t.me/owogram")
                        ]]
                     ))
    else:
